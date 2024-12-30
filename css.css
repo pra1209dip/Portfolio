@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url(p1.avif);
+    background-size: cover;
+}
+
+    header {
+    background: #333;
+    color: #fff;
+    padding: 20px ;
+    text-align: center;
+}
+
+ ul {
+    list-style: none;
+    padding: 0;
+}
+ ul li {
+    display: inline;
+    margin: 0 15px;
+
+}
+
+
+div  {
+    padding: 20px;
+    margin: 20px;
+    font-weight: bold;
+    border: 1px solid black ;
+    
+}
+
+img{
+padding: 40px;
+border-radius: 50%;
+object-fit: cover;
+}
